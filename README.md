@@ -8,7 +8,7 @@ Byzantine attack/defense, and an interactive dashboard.
 - [x] Phase 2: FedAvg simulator — 10 clients IID (99.0% accuracy)
 - [x] Phase 3: Non-IID data + Byzantine attack + median defense
 - [x] Phase 4: Streamlit dashboard with live simulation
-- [ ] Phase 5: Research report (LaTeX)
+- [x] Phase 5: Research report (LaTeX)
 
 
 # Federated Learning Simulator
