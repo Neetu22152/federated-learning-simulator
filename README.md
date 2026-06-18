@@ -145,4 +145,9 @@ Replace mean aggregation with element-wise median across client weights — outl
 - Add differential privacy (Gaussian noise mechanism)
 - Extend to CIFAR-10 for more complex tasks
 - Communication efficiency: gradient compression
-- Deploy dashboard publicly on Streamlit Cloud
+
+
+## Live Demo
+ **[federated-learning-simulator.streamlit.app](https://federated-learning-simulator.streamlit.app)**
+
+Adjust parameters and watch the global model learn in real time.
